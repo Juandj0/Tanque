@@ -103,14 +103,17 @@ System.out.println("oprimi una tecla");
 //            if(key== KeyEvent.VK_LEFT){
 //            xref-=1;
 //            }
-//              if(key== KeyEvent.VK_UP){
-//                  yref-=1;
-//            System.out.println("oprimi una tecla");
-//            }
-//                if(key== KeyEvent.VK_DOWN){
-//            System.out.println("oprimi una tecla");
-//            yref+=1;
-//            }
+              if(key== KeyEvent.VK_UP){
+               
+                  
+                  tanque.setAngulo(tanque.getAngulo()+1);
+                
+            System.out.println("oprimi una tecla");
+            }
+                if(key== KeyEvent.VK_DOWN){
+           tanque.setAngulo(tanque.getAngulo()-1);
+           
+            }
 //                  if(key== KeyEvent.VK_RIGHT){
 //                       xref+=1;
 //            System.out.println("oprimi una tecla");
