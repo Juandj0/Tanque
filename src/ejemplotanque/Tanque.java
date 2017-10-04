@@ -7,7 +7,7 @@ package ejemplotanque;
 
 /**
  *
- * @author Estudiante
+ * @author Juandavidjaime Huerfano
  */
 public class Tanque {
     private int x;

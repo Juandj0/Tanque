@@ -22,7 +22,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Estudiante
+ * @author Juandavidjaime Huerfano
  * Jpanel dado que voy a pintar en el Canvas
  * ActionListener: Para poder ejecutar el escenario cada ciertos milisegundos
  */
